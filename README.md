@@ -1,2 +1,0 @@
-# Paddy-papper-css
-Hausaufgaben
